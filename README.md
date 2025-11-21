@@ -25,7 +25,7 @@ Clash Mi 是一款 iOS 上免费、无广告的小火箭平替。
 下载地址👉 https://apps.apple.com/us/app/clash-mi/id6744321968  
 
  **非中国区 Apple ID** 才能下载。
-如需要（价格低，提供免费小火箭）
+如需要（价格低，并提供免费小火箭）
 👉 https://neelaworld.com/#/register?code=DrY8tbLQ
 
 ---
